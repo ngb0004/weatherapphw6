@@ -1,0 +1,6 @@
+.cardMargin {
+    margin-right: 0 !important;
+}
+.cardBox {
+    box-sizing: unset !important;
+}
